@@ -1,0 +1,7 @@
+body {
+  --primary-color: #212121;
+  --secondary-color: #0f4c75;
+  --tertiary-color: #3282b8;
+  --text-color: #bbe1fa;
+  --border-radius: 0.7rem;
+}

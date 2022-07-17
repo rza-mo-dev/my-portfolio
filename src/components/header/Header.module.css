@@ -1,0 +1,12 @@
+.header {
+  background-color: #282c34;
+  width: 100%;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}

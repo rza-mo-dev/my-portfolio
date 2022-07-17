@@ -1,0 +1,20 @@
+.navbar {
+  display: flex;
+  list-style: none;
+  justify-content: flex-end;
+  flex: 1 1 auto;
+  padding: 0;
+  color: var(--tertiary-color);
+}
+
+.navbar li {
+  margin-right: 1.7rem;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 95%;
+  padding: 1.2rem;
+}
