@@ -1,7 +1,11 @@
 body {
-  --primary-color: #212121;
+  /* --primary-color: #282c34;
   --secondary-color: #0f4c75;
   --tertiary-color: #3282b8;
-  --text-color: #bbe1fa;
+  --text-color: #bbe1fa; */
+  --primary-color: #0a192f;
+  --secondary-color: #35858b;
+  --tertiary-color: #4fbdba;
+  --text-color: #ccd6f6;
   --border-radius: 0.7rem;
 }
